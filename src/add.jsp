@@ -10,7 +10,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/snakes.css" rel="stylesheet" />
 
-    <title>Add a Movie | Does it have snakes?</title>
+    <title>feature branch1.1</title>
   </head>
 
   <body>
